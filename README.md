@@ -2,7 +2,7 @@
 - 👀 I’m interested in Arts, Gaming & Programming
 - 🌱 I’m currently learning Frontend Stuff
 - 📫 How to reach me: https://linktr.ee/ashiya33
-- 😄 Pronouns: i'm a female ... D:
+- 😄 Pronouns: she/her
 - ⚡ Fun(ny) fact: i'm 33 with ~5 years of work experience D':
 
 <!---
